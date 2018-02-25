@@ -3,7 +3,7 @@
     "description": "Wordpress Standalone",
     "version": "0.0.3",
     "author": "https://github.com/lbthomsen",
-    "ssh-key": "lth",
+    "ssh-key": "titan",
     "containers": [
         {
             "hostname": "${webContainerName}",
